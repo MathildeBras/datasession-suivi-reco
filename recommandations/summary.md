@@ -1,6 +1,6 @@
 # Sommaire des recommandations du rapport
 
-## [Tableau-de-suivi](Tableau-de-suivi.md)
+## [Tableau de suivi](Tableau-de-suivi.md)
 
 
 
@@ -13,3 +13,5 @@
 
 
 [Lien vers le rapport intégral]
+
+### Un grand merci à Mathilde pour sa précieuse et patiente aide
