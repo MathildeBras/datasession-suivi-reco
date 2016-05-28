@@ -1,4 +1,4 @@
-<font face="Tahoma, sans-serif"><font size="2">_Le Président_</font></font>
+ƒ<font face="Tahoma, sans-serif"><font size="2">_Le Président_</font></font>
 
 <font face="Tahoma, sans-serif"><font size="2">Nantes, le 28 juin 2013</font></font>
 
@@ -2189,7 +2189,7 @@ ville-centre et les villes périphériques.</font></font>
 
 <a name="_Toc356222144"></a><font face="Tahoma, sans-serif"><font size="2"><u>**Recommandations**</u></font></font>
 
-1.  <font face="Tahoma, sans-serif"><font size="2">Améliorer la coopération avec le département de la Vendée en ce qui concerne l’accueil individuel assuré par les assistantes maternelles, afin d’être en mesure de concevoir une réponse aux besoins des familles reposant sur une complémentarité entre accueil individuel et accueil collectif, aussi bien au niveau de l’ensemble de la population du territoire de l’agglomération, que pour chaque famille considérée en tant que telle ;</font></font>. [suivi](reco-1.md)
+1.  <font face="Tahoma, sans-serif"><font size="2">Améliorer la coopération avec le département de la Vendée en ce qui concerne l’accueil individuel assuré par les assistantes maternelles, afin d’être en mesure de concevoir une réponse aux besoins des familles reposant sur une complémentarité entre accueil individuel et accueil collectif, aussi bien au niveau de l’ensemble de la population du territoire de l’agglomération, que pour chaque famille considérée en tant que telle ;</font></font>. [suivi](recommandations/reco-1.md)
 
 2.  <font face="Tahoma, sans-serif"><font size="2">Poursuivre le travail d’harmonisation des pratiques entre tous les EAJE afin d’assurer une égalité réelle de traitement pour toutes les familles, quelle que soit leur commune de résidence ;</font></font>
 
