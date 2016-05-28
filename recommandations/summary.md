@@ -5,7 +5,7 @@
 ### salut
 
 
-- recommandation 1
+- [recommandation 1](reco-1.md)
     * salut
     * hello
 
