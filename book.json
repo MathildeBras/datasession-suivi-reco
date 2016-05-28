@@ -1,0 +1,26 @@
+
+{
+  "gitbook": ">=2.0.0",
+  "plugins": [
+    "edit-link"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://framagit.org/Datasession/test-suivi-reco",
+      "label": {
+        "en": "View Source Code",
+        "fr": "Voir le code source"
+      }
+    }
+  }
+}
+
+{
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "contributions"
+        }
+    }
+}
+
